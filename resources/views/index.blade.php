@@ -181,7 +181,10 @@
                 <div class="col-lg-6">
                     <div class="section_title mb-55 text-center">
                         <h3>Product Features</h3>
-                        <p>We bring Quality Health Services (QHS) through</p>
+                       
+                        <p>Understand the impact of blood pressure and sugar on your health with Fitrend monitoring device, enhanced dialogue with your doctor, and access
+                            real-time support with Fitrend App.
+                        </p>
                     </div>
                 </div>
             </div>
